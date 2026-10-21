@@ -1,0 +1,49 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# macOS files
+.DS_Store
+
+# R session files
+.Rhistory
+.RData
+
+# Dashboard development backups
+src/dashboard/app_v*_backup.py
+src/dashboard/app_v11_working.py
+
+# Local databases and temporary files
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.tmp
+*.bak
+
+# IDE settings
+.vscode/
+.idea/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Legacy introductory script (Checkpoint 1.4)
+main.py

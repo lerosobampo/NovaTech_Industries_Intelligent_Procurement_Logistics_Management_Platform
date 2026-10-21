@@ -1,0 +1,4 @@
+supplier_id,product_id,min_order_qty,available_qty
+SUP001,PRD001,10,150
+SUP002,PRD001,20,400
+SUP003,PRD002,5,75

@@ -1,0 +1,13 @@
+supplier_id,supplier_name,country,status
+SUP001,EuroParts GmbH,Germany,ACTIVE
+SUP002,Shenzhen Components,China,ACTIVE
+SUP003,Nordic Industrial AB,Sweden,ACTIVE
+SUP004,GlobalTech Mexico,Mexico,ACTIVE
+SUP005,Delta Controls BV,Netherlands,ACTIVE
+SUP006,Alpine Systems AG,Switzerland,ACTIVE
+SUP007,Baltic Automation OÜ,Estonia,ACTIVE
+SUP008,Pacific Circuit Ltd,Taiwan,ACTIVE
+SUP009,Iberian Drives SL,Spain,ACTIVE
+SUP010,Rhein Mechanical GmbH,Germany,ACTIVE
+SUP011,Orion Electronics Inc,United States,INACTIVE
+SUP012,Polaris Supply AS,Norway,INACTIVE

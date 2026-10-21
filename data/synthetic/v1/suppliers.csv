@@ -1,0 +1,4 @@
+supplier_id,name,country,status
+SUP001,EuroParts GmbH,Germany,active
+SUP002,Shenzhen Components,China,active
+SUP003,Nordic Industrial AB,Sweden,active

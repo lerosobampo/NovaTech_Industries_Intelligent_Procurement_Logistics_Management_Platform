@@ -1,0 +1,21 @@
+product_id,sku,product_name,category,unit_of_measure
+PRD001,NT-0001,Industrial Component 01,Sensors,EA
+PRD002,NT-0002,Industrial Component 02,Motors,EA
+PRD003,NT-0003,Industrial Component 03,Controllers,EA
+PRD004,NT-0004,Industrial Component 04,Connectors,EA
+PRD005,NT-0005,Industrial Component 05,Sensors,EA
+PRD006,NT-0006,Industrial Component 06,Motors,EA
+PRD007,NT-0007,Industrial Component 07,Controllers,EA
+PRD008,NT-0008,Industrial Component 08,Connectors,EA
+PRD009,NT-0009,Industrial Component 09,Sensors,EA
+PRD010,NT-0010,Industrial Component 10,Motors,EA
+PRD011,NT-0011,Industrial Component 11,Controllers,EA
+PRD012,NT-0012,Industrial Component 12,Connectors,EA
+PRD013,NT-0013,Industrial Component 13,Sensors,EA
+PRD014,NT-0014,Industrial Component 14,Motors,EA
+PRD015,NT-0015,Industrial Component 15,Controllers,EA
+PRD016,NT-0016,Industrial Component 16,Connectors,EA
+PRD017,NT-0017,Industrial Component 17,Sensors,EA
+PRD018,NT-0018,Industrial Component 18,Motors,EA
+PRD019,NT-0019,Industrial Component 19,Controllers,EA
+PRD020,NT-0020,Industrial Component 20,Connectors,EA
