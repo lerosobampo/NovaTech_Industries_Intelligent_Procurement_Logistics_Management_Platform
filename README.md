@@ -394,3 +394,73 @@ If connection details are not supplied, Psycopg uses PostgreSQL's available conn
 The demonstration environment has been successfully initialized in an isolated PostgreSQL database using the exported schema, 15 synthetic datasets, and shipment initialization services.
 
 The platform is intended for local analytical demonstration. It does not connect to live procurement systems, authorize purchases, or dispatch real shipments.
+
+## Dashboard Gallery
+
+NovaTech Industries V11 includes ten interactive dashboard sections covering procurement analytics, supplier evaluation, logistics operations, exception management, and risk intelligence.
+
+All screenshots below show the platform operating with synthetic demonstration data.
+
+### 1. Procurement Overview
+
+Monitor procurement activity and key performance indicators through a centralized analytical dashboard.
+
+![Procurement Overview](docs/screenshots/Procurement%20Overview.png)
+
+### 2. Supplier Comparison
+
+Compare suppliers using weighted evaluation scores, operational performance indicators, and eligibility criteria.
+
+![Supplier Comparison](docs/screenshots/Supplier%20Comparison.png)
+
+### 3. Procurement Insights
+
+Explore procurement patterns and analytical insights to support data-driven decision-making.
+
+![Procurement Insights](docs/screenshots/Procurement%20Insights.png)
+
+### 4. Logistics Intelligence
+
+Analyze logistics performance and operational indicators across the supply chain.
+
+![Logistics Intelligence](docs/screenshots/Logistics%20Intelligence.png)
+
+### 5. Shipment Tracking
+
+Monitor simulated shipment statuses, delivery timelines, and chronological tracking events.
+
+![Shipment Tracking](docs/screenshots/Shipment%20Tracking.png)
+
+### 6. Shipment Exception Management
+
+Manage simulated shipment exceptions through structured workflows, corrective actions, and auditable status transitions.
+
+![Shipment Exception Management](docs/screenshots/Shipment%20Exception%20Management.png)
+
+### 7. Decision & Audit Trail
+
+Review procurement decisions and supporting audit records to improve transparency and traceability.
+
+![Decision and Audit Trail](docs/screenshots/Decision%20%26%20Audit%20Trail.png)
+
+### 8. Analyst Workspace
+
+Explore procurement and logistics information through a dedicated analytical workspace.
+
+![Analyst Workspace](docs/screenshots/Analyst%20Workspace.png)
+
+### 9. Logistics Risk Intelligence
+
+Identify and prioritize simulated shipment risks using explainable scoring rules and operational indicators.
+
+![Logistics Risk Intelligence](docs/screenshots/Logistics%20Risk%20Intelligence.png)
+
+### 10. Logistics Risk Scenario Analysis
+
+Explore hypothetical logistics risk scenarios and evaluate how changes in shipment conditions affect risk scores.
+
+![Logistics Risk Scenario Analysis](docs/screenshots/Logistics%20Risk%20Scenario%20Analysis.png)
+
+---
+
+**Demonstration disclaimer:** All displayed records are synthetic and unverified. The platform is designed for analytical demonstration and decision support, not autonomous procurement authorization or real-world shipment execution.
